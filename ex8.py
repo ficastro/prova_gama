@@ -1,5 +1,3 @@
-# Não consegui passar os dados com a curl, coloquei header e body manualmente no Thunderclient.
-
 from flask import Flask, request
 app = Flask(__name__)
 
